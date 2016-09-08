@@ -1,5 +1,6 @@
 # KaderisasiWS2016
 Repository untuk dokumentasi tugas-tugas calon kru WS HME ITB 2016
+
 1. Aturan umum pengumpulan tugas
    * Tugas yang sudah selesai harus dipresentasikan kepada mentor masing-masing kelompok pada waktu yang ditentukan bersama mentor sebelum batas waktu yang diberikan pada spesifikasi tugas
    * Tugas harus disertai dengan dokumentasi tugas menggunakan template dokumentasi yang ada pada repository KaderisasiWS2016
