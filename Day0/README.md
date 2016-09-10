@@ -1,7 +1,6 @@
 #Tugas Day 0
 1. **Detail Tugas**
   1. Membuat file skematik dari rangkaian di bawah ini menggunakan software Eagle
-  ![Image of Yaktocat](https://github.com/WorkshopHMEITB/KaderisasiWS2016/blob/master/assets/images/circuit.PNG)
   2. Membuat file PCB dari skematik yang telah dibuat menggunakan software Eagle
   3. Mencetak 1 buah PCB dari file PCB yang telah dibuat
   4. Membeli komponen-komponen yang dibutuhkan dan memasangnya/menyoldernya pada PCB yang telah dicetak
@@ -12,6 +11,8 @@
 2. **Parameter Penilaian**<br  />
   Coming soon...
 3. **Informasi Tambahan**
+  * Rangkaian yang diberikan diatas sulit untuk dimengerti dikarenakan pengintegrasian 4 komponen transistor dalam rangkaian kedalam satu IC CA3046. Berikut adalah gambar skematik rangkaian diatas apabila keempat transistor digambarkan satu per satu. <br  />
+  ![circuit 2](https://github.com/WorkshopHMEITB/KaderisasiWS2016/blob/master/assets/images/circuit.PNG)
   * Tips untuk Mempermudah Pengerjaan
     * Manfaatkan fitur DRC pada pembuatan file PCB untuk memastikan desain yang anda buat dapat dicetak oleh tempat pencetakan anda
     * Gunakan ground plane untuk mempermudah routing (Tidak harus)
