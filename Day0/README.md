@@ -12,12 +12,14 @@
 2. **Parameter Penilaian**<br  />
   Coming soon...
 3. **Informasi Tambahan**
+  * Software Eagle dapat didownload secara gratis sebagai *freeware* dari https://cadsoft.io/
   * Rangkaian yang diberikan diatas sulit untuk dimengerti dikarenakan pengintegrasian 4 komponen transistor dalam rangkaian kedalam satu IC CA3046. Berikut adalah gambar skematik rangkaian diatas apabila keempat transistor digambarkan satu per satu. <br  />
   ![circuit 2](https://github.com/WorkshopHMEITB/KaderisasiWS2016/blob/master/assets/images/circuit.PNG)
   * Tips untuk Mempermudah Pengerjaan
     * Manfaatkan fitur DRC pada pembuatan file PCB untuk memastikan desain yang anda buat dapat dicetak oleh tempat pencetakan anda
     * Gunakan ground plane untuk mempermudah routing (Tidak harus)
     * Gunakan IC header untuk memastikan IC tidak akan rusak saat proses penyolderan, serta agar IC dapat dilepas untuk dipakai dalam hal lain (Tidak harus)
+    * Untuk mengurangi biaya mencetak PCB, ketika ingin mencetak, cetak PCB beberapa kelompok secara bersama-sama
   * Informasi Pencetakan PCB
     * *Spectra* 
       * Lokasi : https://goo.gl/maps/9tBonaAyMZR2
