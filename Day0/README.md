@@ -1,6 +1,7 @@
 #Tugas Day 0
 1. **Detail Tugas**
-  1. Membuat file skematik dari rangkaian di bawah ini menggunakan software Eagle
+  1. Membuat file skematik dari rangkaian di bawah ini menggunakan software Eagle<br  />
+  ![circuit 1](https://github.com/WorkshopHMEITB/KaderisasiWS2016/blob/master/assets/images/circuit2.PNG)
   2. Membuat file PCB dari skematik yang telah dibuat menggunakan software Eagle
   3. Mencetak 1 buah PCB dari file PCB yang telah dibuat
   4. Membeli komponen-komponen yang dibutuhkan dan memasangnya/menyoldernya pada PCB yang telah dicetak
