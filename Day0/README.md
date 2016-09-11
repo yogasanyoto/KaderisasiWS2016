@@ -1,5 +1,5 @@
 #Tugas Day 0
-!Template file dokumentasi belum ada, kerjakan saja file skematik dan PCB nya dahulu
+###*Template file dokumentasi belum ada, kerjakan saja file skematik dan PCB nya dahulu*
 1. **Detail Tugas**
   1. Membuat file skematik dari rangkaian di bawah ini menggunakan software Eagle<br  />
   ![circuit 1](https://github.com/WorkshopHMEITB/KaderisasiWS2016/blob/master/assets/images/circuit2.PNG)
