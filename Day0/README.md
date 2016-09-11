@@ -44,3 +44,4 @@
     * *Jaya Plaza* (https://goo.gl/maps/nTADkQ1KY322)<br  />
     Jika kesulitan dalam menemukan CA3046, dapat ditemukan di toko i.want.electronics di Jaya Plaza dengan harga Rp. 27500
     * *Duta Irama* (https://goo.gl/maps/VzKpAT1tsW42 depan Jaya Plaza)
+  * Jika ada pertanyaan silakan hubungi [mentor masing-masing](https://github.com/WorkshopHMEITB/KaderisasiWS2016/blob/master/KontakMentorCakruWS2016.csv)
