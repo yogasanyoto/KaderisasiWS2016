@@ -17,7 +17,7 @@
  5. Sekarang, *repository* baru (yang merupakan *forked* repository [WorkshopHMEITB/KaderisasiWS2016](https://github.com/WorkshopHMEITB/KaderisasiWS2016)) akan muncul di profil anda. Alamat repository tersebut akan berbentuk seperti ini: https://github.com/USER_NAME/KaderisasiWS2016, sebagai contoh, https://github.com/fuad1502/KaderisasiWS2016. (Jika anda baru saja mem-*fork* repository WorkshopHMEITB/KaderisasiWS2016, anda akan langsung ter-*redirect* ke alamat repository baru anda tersebut)
  6. Setelah *forked repository* berhasil anda buat, anda dapat ***mengupload file-file*** yang harus anda upload ke repository tersebut. Cara mengupload file yang baik dan benar, ada pada bagian 4, "Cara mengupload file-file ke forked repository"
  7. Setelah semua file yang diperlukan sudah anda upload, tekan ***New Pull Request***
- 8. Kemudian tekan tombol ***Create pull request***. Tuliskan "Tugas Day X" pada bagian title dan tekan kembali tombol ***Create pull request***
+ 8. Kemudian tekan tombol ***Create pull request***. Tuliskan "Tugas Day X Kelompok Y" pada bagian title dan tekan kembali tombol ***Create pull request***
  9. Selesai. Jika anda sudah mengupload semua file dengan benar, pihak kami akan menerima *pull request* anda dan menggabungkannya ke dalam repository [WorkshopHMEITB/KaderisasiWS2016](https://github.com/WorkshopHMEITB/KaderisasiWS2016)
 4. **Cara mengupload file-file ke forked repository**
  1. Buka *forked repository* anda di https://github.com/USER_NAME/KaderisasiWS2016
