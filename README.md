@@ -8,16 +8,16 @@
   * Tugas yang sudah selesai harus dipresentasikan kepada mentor masing-masing kelompok pada waktu yang ditentukan bersama mentor sebelum batas waktu yang diberikan pada spesifikasi tugas
   * Tugas harus disertai dengan dokumentasi tugas menggunakan template dokumentasi yang ada pada repository KaderisasiWS2016
   * File-file terkait (yang akan diberitahu pada spesifikasi tiap tugas) beserta dokumentasinya harus dikumpulkan melalui repository KaderisasiWS2016 sebelum batas waktu yang diberikan pada spesifikasi tugas (cara pengumpulan tugas ke repository ada pada poin 3 file ini)
-  * Telat mempresentasikan kepada mentor atau telat mengupload file-file terkait beserta dokumentasi ke repository KaderisasiWS2016 akan mengakibatkan pengurangan nilai total sebesar 5% (telat 1 hari), 15% (telat 2 hari), 30% (telat 3 hari), dan 50% (dengan kata lain tidak dianggap mengumpulkan jika telat lebih dari 4 hari)
+  * Telat mempresentasikan kepada mentor akan mengakibatkan pengurangan nilai total sebesar 5% (telat 1 hari), 15% (telat 2 hari), 30% (telat 3 hari), dan 50% (dengan kata lain tidak dianggap mengumpulkan jika telat lebih dari 4 hari)
 3. **Cara pengumpulan tugas**<br  />
- 1. Jika belum terdaftar di github, klik tombol ***Sign up*** di pojok kanan atas [page ini](https://github.com/WorkshopHMEITB/KaderisasiWS2016) dan ikuti terus prosedurnya hingga anda terdaftar
+ 1. Jika anda belum terdaftar di github, klik tombol ***Sign up*** di pojok kanan atas [page ini](https://github.com/WorkshopHMEITB/KaderisasiWS2016) dan ikuti terus prosedurnya hingga anda terdaftar
  2. Jika anda sudah terdaftar, *sign in* dengan menekan tombol ***Sign in*** di pojok kanan atas [page ini](https://github.com/WorkshopHMEITB/KaderisasiWS2016)
  3. Klik tombol ***Fork*** di pojok kanan atas [page ini](https://github.com/WorkshopHMEITB/KaderisasiWS2016)
  4. *Pop up window* akan muncul setelah anda menekan tombol *Fork*, tekan ***profil anda***.
  5. Sekarang, *repository* baru (yang merupakan *forked* repository [WorkshopHMEITB/KaderisasiWS2016](https://github.com/WorkshopHMEITB/KaderisasiWS2016)) akan muncul di profil anda. Alamat repository tersebut akan berbentuk seperti ini: https://github.com/USER_NAME/KaderisasiWS2016, sebagai contoh, https://github.com/fuad1502/KaderisasiWS2016. (Jika anda baru saja mem-*fork* repository WorkshopHMEITB/KaderisasiWS2016, anda akan langsung ter-*redirect* ke alamat repository baru anda tersebut)
  6. Setelah *forked repository* berhasil anda buat, anda dapat ***mengupload file-file*** yang harus anda upload ke repository tersebut. Cara mengupload file yang baik dan benar, ada pada bagian 4, "Cara mengupload file-file ke forked repository"
  7. Setelah semua file yang diperlukan sudah anda upload, tekan ***New Pull Request***
- 8. Kemudian tekan tombol ***Create pull request***.
+ 8. Kemudian tekan tombol ***Create pull request***. Tuliskan "Tugas Day X" pada bagian title dan tekan kembali tombol ***Create pull request***
  9. Selesai. Jika anda sudah mengupload semua file dengan benar, pihak kami akan menerima *pull request* anda dan menggabungkannya ke dalam repository [WorkshopHMEITB/KaderisasiWS2016](https://github.com/WorkshopHMEITB/KaderisasiWS2016)
 4. **Cara mengupload file-file ke forked repository**
  1. Buka *forked repository* anda di https://github.com/USER_NAME/KaderisasiWS2016
